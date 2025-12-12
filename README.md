@@ -18,3 +18,10 @@ npm start -w api
 ```bash
 npm run dev -w client
 ```
+
+
+## Run API test
+
+```
+npm test -w api
+```
